@@ -29,7 +29,7 @@
 
 ## Demo
 
-🔗 **Live App**: [works-todo](https://works-todo.netlify.app/)
+🔗 <strong>Live App</strong>: <a href="https://works-todo.netlify.app/" target="_blank" rel="noopener noreferrer">works-todo</a>
 
 ---
 
