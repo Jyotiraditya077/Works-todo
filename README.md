@@ -1,12 +1,49 @@
-# React + Vite
+# Works To-Do
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://works-todo.netlify.app/images/icon.png" alt="To-Do App Logo" width="120px">
+</p>
 
-Currently, two official plugins are available:
+**Works To-Do** is a beautifully crafted productivity web app that helps users manage their daily tasks in a clean, interface. With a intuitive task controls, and persistent UI features, this app is ideal for minimal yet effective task tracking.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Table of Contents
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [Features](#features)
+- [Demo](#demo)
+- [Tech Stack](#tech-stack)
+- [Contact](#contact)
+
+---
+
+## Features
+
+✔️ Add, remove, and check off tasks with a single click.  
+✔️ Persistent data storage using LocalStorage.
+✔️ Responsive design for all screen sizes.  
+✔️ Clean and readable task layout with interactive icons.  
+✔️ Minimal, fast-loading interface powered by Vite.
+
+---
+
+## Demo
+
+🔗 **Live App**: [works-todo](https://works-todo.netlify.app/)
+
+---
+
+## Tech Stack
+
+**Frontend:**  
+- React.js (Vite)
+- HTML5 + CSS3 
+
+---
+
+## Contact
+
+👤 **Jyotiraditya Swain**  
+📍 **GitHub**: [Jyotiraditya077](https://github.com/Jyotiraditya077)  
+📧 **Email**: jyotiradityaswain123@gmail.com  
+
