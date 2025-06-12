@@ -19,17 +19,17 @@
 
 ## Features
 
-✔️ Add, remove, and check off tasks with a single click.
-✔️ Persistent data storage using LocalStorage.
-✔️ Responsive design for all screen sizes.
-✔️ Clean and readable task layout with interactive icons.
+✔️ Add, remove, and check off tasks with a single click.  
+✔️ Persistent data storage using LocalStorage.  
+✔️ Responsive design for all screen sizes.  
+✔️ Clean and readable task layout with interactive icons.  
 ✔️ Minimal, fast-loading interface powered by Vite.
 
 ---
 
 ## Demo
 
-🔗 **Live App**: [works-todo](https://works-todo.netlify.app) _(opens in new tab)_
+🔗 **Live App**: [works-todo](https://works-todo.netlify.app)
 
 ---
 
